@@ -13,7 +13,6 @@ int main()
         cin >> a >> b;
         cout << "Case " << tc << ": " << a + b << endl;
     }
-
     
     return 0;
 }
